@@ -1,8 +1,8 @@
- {
+ * {
   box-sizing: border-box;
 }
 body {
-  background-color: #4248f5;
+  background-color: blue;
 }
 
 h1 {
@@ -25,7 +25,7 @@ h3 {
 }
 
 .get-dog-btn {
-  background-color: #f59c42;
+  background-color: purple;
   border-radius: 25px;
 }
 
